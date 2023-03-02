@@ -1,0 +1,9 @@
+IDE - NetBeans
+JDK - 1.8
+Server - Apache Tomcat 10.1.5
+Java EE Version - Java EE 7 Web
+javax.servlet  (jar file attached)
+mysql-connection-java-8.0.26 (jar file attached)
+
+
+
